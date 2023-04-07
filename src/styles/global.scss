@@ -1,0 +1,14 @@
+body {
+	background-color: var(--color-dark);
+	font-family: "Vercetti";
+	font-size: 16px;
+}
+
+canvas {
+	height: 100vh !important;
+	width: 100% !important;
+
+	@include medium {
+		height: -webkit-fill-available;
+	}
+}

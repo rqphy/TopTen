@@ -1,0 +1,22 @@
+[
+	{
+		"name": "Stephen Curry",
+		"imgURL": "/players/steph.jpg",
+		"history": "lorem"
+	},
+	{
+		"name": "Lebron James",
+		"imgURL": "/players/lebron.jpg",
+		"history": "lorem"
+	},
+	{
+		"name": "Magic Johnson",
+		"imgURL": "/players/magic.jpg",
+		"history": "lorem"
+	},
+	{
+		"name": "Michael Jordan",
+		"imgURL": "/players/mj.jpg",
+		"history": "lorem"
+	}
+]

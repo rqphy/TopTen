@@ -1,8 +1,8 @@
-export default function Player({ player }) {
+export default function Player({ id, player }) {
 	return (
 		<article className="player">
 			<h2 className="player__title">
-				{player.id} - {player.name}
+				{id} - {player.name}
 			</h2>
 			<img
 				className="player__illu"

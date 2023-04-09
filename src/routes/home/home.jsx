@@ -3,10 +3,12 @@ import { Canvas } from "@react-three/fiber"
 
 export default function Home() {
 	return (
-		<div>
-			<Canvas shadows>
-				<Experience />
-			</Canvas>
-		</div>
+		<>
+			<section className="hero">
+				<Canvas shadows>
+					<Experience />
+				</Canvas>
+			</section>
+		</>
 	)
 }

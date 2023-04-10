@@ -2,7 +2,7 @@ export default function Player({ id, player }) {
 	return (
 		<article className="player">
 			<h2 className="player__title">
-				{id} - {player.name}
+				{10 - id} - {player.name}
 			</h2>
 			<img
 				className="player__illu"

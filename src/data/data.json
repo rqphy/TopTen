@@ -2,21 +2,21 @@
 	{
 		"name": "Stephen Curry",
 		"imgURL": "/players/steph.jpg",
-		"history": "lorem"
+		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
 	},
 	{
 		"name": "Lebron James",
-		"imgURL": "/players/lebron.jpg",
-		"history": "lorem"
+		"imgURL": "/players/steph.jpg",
+		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
 	},
 	{
 		"name": "Magic Johnson",
-		"imgURL": "/players/magic.jpg",
-		"history": "lorem"
+		"imgURL": "/players/steph.jpg",
+		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
 	},
 	{
 		"name": "Michael Jordan",
-		"imgURL": "/players/mj.jpg",
-		"history": "lorem"
+		"imgURL": "/players/steph.jpg",
+		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
 	}
 ]

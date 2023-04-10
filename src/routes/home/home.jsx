@@ -6,7 +6,7 @@ import players from "../../data/data.json"
 
 export default function Home() {
 	return (
-		<>
+		<div className="home">
 			<section className="hero">
 				<Canvas shadows>
 					<Experience />
@@ -17,6 +17,6 @@ export default function Home() {
 					return <Player id={index} player={player} key={index} />
 				})}
 			</Container>
-		</>
+		</div>
 	)
 }

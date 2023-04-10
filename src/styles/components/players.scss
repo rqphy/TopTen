@@ -1,0 +1,19 @@
+.player {
+	&__title {
+		font-size: 4rem;
+		font-weight: 600;
+		text-transform: uppercase;
+		letter-spacing: 0.2rem;
+	}
+
+	&__illu {
+		margin-top: 2rem;
+	}
+
+	&__history {
+		margin-top: 2rem;
+		font-family: sans-serif;
+		font-size: 1.4rem;
+		line-height: 125%;
+	}
+}

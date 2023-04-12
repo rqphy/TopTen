@@ -1,22 +1,52 @@
 [
-	{
-		"name": "Stephen Curry",
-		"imgURL": "/players/steph.jpg",
-		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
-	},
-	{
-		"name": "Lebron James",
-		"imgURL": "/players/steph.jpg",
-		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
-	},
-	{
-		"name": "Magic Johnson",
-		"imgURL": "/players/steph.jpg",
-		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
-	},
-	{
-		"name": "Michael Jordan",
-		"imgURL": "/players/steph.jpg",
-		"history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
-	}
+    {
+        "name": "Stephen Curry",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Shaquille O'Neal",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Larry Bird",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Kobe Bryant",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Bill Russell",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Tim Duncan",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Magic Johnson",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Kareem Abdul-Jabbar",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Michael Jordan",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    },
+    {
+        "name": "Lebron James",
+        "imgURL": "/players/steph.jpg",
+        "history": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ex distinctio, omnis sit esse saepe fugiat fuga! Aliquid, dolorum. Ea, ipsa. Sunt maxime quo consequuntur voluptas voluptatibus laudantium, officia accusamus unde."
+    }
 ]

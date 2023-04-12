@@ -1,21 +1,29 @@
 body {
-	min-height: 200vh;
-	background-color: var(--color-dark);
-	font-family: "Humane";
-	font-size: 16px;
+    min-height: 200vh;
+    background-color: var(--color-dark);
+    font-family: "Humane";
+    font-size: 16px;
+
+    @include medium {
+        font-size: 14px;
+    }
+
+    @include small {
+        font-size: 10px;
+    }
 }
 
 canvas {
-	height: 100vh !important;
-	width: 100% !important;
+    height: 100vh !important;
+    width: 100% !important;
 
-	@include medium {
-		height: -webkit-fill-available;
-	}
+    @include medium {
+        height: -webkit-fill-available;
+    }
 }
 
 .home {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }

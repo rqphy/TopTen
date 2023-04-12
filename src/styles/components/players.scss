@@ -6,8 +6,10 @@
         letter-spacing: 0.05em;
     }
 
-    &__illu {
+    &__ctn {
         margin-top: 2em;
+        width: 100%;
+        overflow: hidden;
     }
 
     &__history {
